@@ -1,0 +1,1 @@
+VAE for detecting human acitivity from smartphone data.
