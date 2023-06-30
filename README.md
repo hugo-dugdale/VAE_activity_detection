@@ -1,1 +1,1 @@
-VAE for detecting human acitivity from smartphone data.
+Repository for investigation into different federated learning techniques for human activity detection on smartphones.
