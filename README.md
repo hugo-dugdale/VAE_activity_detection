@@ -1,1 +1,1 @@
-Repository for investigation into different federated learning techniques for human activity detection on smartphones.
+Repository for investigation into the efficiacy of semi supervised learning techniques for human activity detection on smartphones.
